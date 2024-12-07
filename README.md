@@ -5,4 +5,4 @@
 2. work
 3. commit
 4. push
-5. get salary
+5. get sad
